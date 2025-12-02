@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm an undergraduate engineering student interested in Full Stack Development.  
-I work with **Java, HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, SQL, Git, and GitHub**.
-I enjoy learning, building projects, and exploring new technologies.
-Check out my projects down below. Most of my learning lives there.
+#### ✋ I'm an undergraduate engineering student interested in Full Stack Development.  
+#### 🧑‍💻 I work with **Java, HTML5, CSS3, Bootstrap, JavaScript, React, Node.js, Express.js, MongoDB, SQL, Git, and GitHub**.<br/>
+#### 😁 I enjoy learning, building projects, and exploring new technologies.<br/>
+#### 🤠 Check out my projects down below. Most of my learning lives there.
 
 
 ## 🌐 Socials:
